@@ -1,0 +1,1 @@
+Al enviar un reporte mediante la ruta **POST /reportes**, este se almacena en el arreglo `reportes`. Al consultar la ruta **GET /reportes**, el servidor devuelve la lista de todos los reportes registrados mientras el servidor permanece en ejecución. Si el servidor se reinicia, la lista vuelve a quedar vacía porque los datos se almacenan únicamente en memoria.

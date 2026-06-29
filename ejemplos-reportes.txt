@@ -1,0 +1,17 @@
+Ejemplo 1:
+
+```json
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público."
+}
+```
+
+Ejemplo 2:
+
+```json
+{
+  "tipo": "Ambiente",
+  "descripcion": "Acumulación de residuos en una zona comunitaria."
+}
+```
